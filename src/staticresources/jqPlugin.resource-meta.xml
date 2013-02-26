@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StaticResource xmlns="http://soap.sforce.com/2006/04/metadata">
+    <cacheControl>Public</cacheControl>
+    <contentType>application/octet-stream</contentType>
+    <description>jQuery Ui Block, Jquery treeview, Jquery Table Sorter, theme switcher</description>
+</StaticResource>
