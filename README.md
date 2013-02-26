@@ -9,10 +9,6 @@ How it works?
 -
 Very simple from &lt;apex:commandButton/&gt; or &lt;apex:actionFunction/&gt; simply relate a &lt;apex:actionstatus/&gt; component which has a &quot;onstart&quot; and &quot;onstop&quot; event. Call the &quot;blockPage&quot; js function from the &quot;onstart&quot; and call &quot;unblockPage&quot; function from &quot;onstop&quot; attribute.
 
-Solution
--
-Use this custom component and specify the desired Icon url.
-
 Version
 -
 
